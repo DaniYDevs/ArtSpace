@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="Name1">Barco Embotellado</string>
+    <string name="Name2">Joven Artista</string>
+    <string name="Name3">Supernova</string>
+    <string name="Name4">Diablo Lucifer</string>
+    <string name="Name5">Pintura de un Cuadro</string>
+    <string name="Name6">Barco en Alta Mar</string>
+    <string name="Name7">Espacio Exterior</string>
+    <string name="Name8">Muchos Cuadros</string>
+    <string name="Descrip1">Un barco dentro de una botella</string>
+    <string name="Descrip2">Una niña pintora</string>
+    <string name="Descrip3">Pues una supernova</string>
+    <string name="Descrip4">El diablo en su forma animal</string>
+    <string name="Descrip5">Una pintura de una muchacha</string>
+    <string name="Descrip6">Un barco navegando</string>
+    <string name="Descrip7">Una pequeña porción del espacio</string>
+    <string name="Descrip8">Cuadros de cuadros en cuadros</string>
+    <string name="Next">Next</string>
+    <string name="Prev">Previous</string>
+</resources>
